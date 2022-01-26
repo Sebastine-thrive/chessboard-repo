@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(241, 213, 213)
+}
+
+.board {
+    display: flex;
+    flex-wrap: wrap;
+    height:700px;
+    width:700px;
+    border: 1px solid black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* h1{
+    text-align: center;
+}
+
+#board{
+    display: flex;
+    margin: 0 auto;
+    width: 1400px;
+    flex-wrap: wrap;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+/* 
+.square:nth-of-type(odd){
+    background-color: rgb(255, 25, 0);
+} */
+/* 
+.square:nth-of-type(even){
+    background-color: rgb(197, 41, 13);
+} */ */
